@@ -7,8 +7,8 @@ const randomstring = require("randomstring");
 const Promise = require("bluebird");
 const Nexmo = require("nexmo");
 const nexmo = new Nexmo({
-    apiKey: "df64ecba",
-    apiSecret: "yVCn7V0fwcEoFca2"
+    apiKey: "your_api_key",
+    apiSecret: "your_api_secret"
 });
 
 
